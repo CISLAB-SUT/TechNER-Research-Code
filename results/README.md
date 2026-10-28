@@ -1,4 +1,4 @@
-# Research Notebooks
+# Results
 
 This directory contains Jupyter notebooks for the TechNER research project.
 
