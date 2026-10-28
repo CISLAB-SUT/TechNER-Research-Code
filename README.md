@@ -14,7 +14,7 @@ The experiments are organized around three dataset scenarios:
 TechNER-Research-Code/
 ├── README.md
 ├── .gitignore
-└── research/
+└── results/
     ├── README.md
     ├── without_auxiliary_head.ipynb
     ├── models_with_auxiliary_head.ipynb
