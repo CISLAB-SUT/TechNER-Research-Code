@@ -24,7 +24,7 @@ TechNER-Research-Code/
 
 ## Research Notebooks
 
-The `research/` directory contains Jupyter notebooks for model experiments, evaluation, and analysis of results across the research scenarios.
+The `results/` directory contains Jupyter notebooks for model experiments, evaluation, and analysis of results across the research scenarios.
 
 ## Reproducibility
 
