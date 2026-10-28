@@ -1,4 +1,4 @@
-# Research
+# Research TechNER
 
 This directory contains Jupyter notebooks for the TechNER research project.
 
@@ -6,7 +6,7 @@ This directory contains Jupyter notebooks for the TechNER research project.
 
 The experiments evaluate the proposed approach across three dataset scenarios:
 
-- **Scenario A:** Domain-specific research dataset.
+- **Scenario A:** TechNER research dataset.
 - **Scenario B:** SciERC dataset.
 - **Scenario C:** Combined dataset (Scenario A + Scenario B).
 
