@@ -1,15 +1,31 @@
-# Research TechNER
-
-This directory contains Jupyter notebooks for the TechNER research project.
+# TechNER Research Code
 
 ## Experimental Scenarios
 
-The experiments evaluate the proposed approach across three dataset scenarios:
+The experiments are organized around three dataset scenarios:
 
 - **Scenario A:** TechNER research dataset.
 - **Scenario B:** SciERC dataset.
-- **Scenario C:** Combined dataset (Scenario A + Scenario B).
+- **Scenario C:** Combined dataset (TechNER + SciERC).
 
-The notebooks include model experiments, evaluation procedures, and results for the three scenarios.
+## Repository Structure
 
-Evaluation results are analyzed to compare model performance across different dataset configurations.
+```text
+TechNER-Research-Code/
+├── README.md
+├── .gitignore
+└── research/
+    ├── README.md
+    ├── without_auxiliary_head.ipynb
+    ├── models_with_auxiliary_head.ipynb
+    ├── results_10_classes.ipynb
+    └── results_on_ER_dataset.ipynb
+```
+
+## Research Notebooks
+
+The `research/` directory contains Jupyter notebooks for model experiments, evaluation, and analysis of results across the research scenarios.
+
+## Reproducibility
+
+Dependencies, experimental configurations, and execution instructions will be documented to support reproducibility.
